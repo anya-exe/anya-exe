@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=22&pause=1000&color=29B81B&center=true&width=600&lines=Full-Stack+Developer+(Java%2FSpring+Boot++React%2FVue);Perfectionist+in+recovery;Fueled+by+coffee+and+curiosity" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=POPPINS&weight=900&size=22&pause=1000&color=3CBB1A&center=true&width=650&lines=Full-Stack+Developer+(Java%2FSpring+Boot+%2B+React%2FVue);Perfectionist+in+recovery;Fueled+by+coffee+and+curiosity" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 💻 <strong>Full-Stack Developer | Spring Boot • React • Vue</strong><br>
 🔧 Currently learning DevOps<br>
 🎯 Professional loser (the kind who learns fast and comes back stronger)<br>
-🧠 Recovering perfectionist with a love for clean code and clever solutions<br>
+🧠 Recovering perfectionist <br>
 🧗 IRL I boulder, in-game I climb — mostly on LoL, occasionally on walls<br>
 🚀 Always learning<br>
 </h4>

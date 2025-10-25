@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-C2e-6b21a8" />
+  <img src="https://img.shields.io/badge/English-C2-6b21a8" />
   <img src="https://img.shields.io/badge/Spanish-B2-046b99" />
   <img src="https://img.shields.io/badge/Tamil-C2-6b21a8" />
 </p>
